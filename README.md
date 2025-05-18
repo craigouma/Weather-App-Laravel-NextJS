@@ -2,7 +2,7 @@
 
 A beautiful, responsive weather application built with React and TypeScript that provides real-time weather information, hourly forecasts, and 5-day predictions.
 
-![Weather Dashboard](https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Weather Dashboard](https://weather-app-laravel-next-js.vercel.app/)
 
 ## Features
 
